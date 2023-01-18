@@ -1,1 +1,1 @@
-A simple Linux shell written with C
+A simple Linux shell written in C
